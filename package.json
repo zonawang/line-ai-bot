@@ -1,0 +1,23 @@
+{
+  "name": "line-echo-bot",
+  "version": "1.0.0",
+  "description": "A simple LINE Bot that echoes back whatever message it receives.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "line",
+    "bot",
+    "echo",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^9.5.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
