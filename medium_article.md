@@ -1,6 +1,6 @@
 # 🤝 AI 協同開發實戰：20 分鐘與 Antigravity 攜手建置 LINE Bot 並部署至 GCP Cloud Run
 
-![AI Co-creation Banner](https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=1200&q=80)
+![AI Co-creation Banner](ai_co_creation_banner.png)
 
 在軟體開發的世界中，快速驗證想法（MVP）一直是關鍵。最近我想搭建一個簡單的 LINE Bot 來測試一些應用，並希望它能夠在雲端 24 小時穩定運作。
 
