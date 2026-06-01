@@ -1,6 +1,7 @@
 # Dependency directories
 node_modules/
 npm-cache/
+.npm-cache/
 
 # Local env files (MUST NOT commit to git for security)
 .env
